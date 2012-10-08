@@ -17,5 +17,6 @@ $ component install manuelstofer/is
 - is.number
 - is.date
 - is.regexp
+- is.object
 
 based on the underscore.js type checking functions

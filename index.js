@@ -13,4 +13,7 @@ if (Array.isArray) {
     module.exports.array = Array.isArray;
 }
 
+module.exports.object = function (obj) {
+    return obj === Object(obj);
+};
 

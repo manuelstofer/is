@@ -1,8 +1,8 @@
 {
   "name": "is",
-  "description": "type checking: is.array, is.arguments, is.function, is.string, is.number, is.date, is.regexp",
-  "version": "0.1",
-  "keywords": ["isArray", "isArguments", "isFunction", "isString", "isNumber", "isDate", "isRegExp"],
+  "description": "type checking: is.array, is.arguments, is.function, is.string, is.number, is.date, is.regexp, is.object",
+  "version": "0.1.1",
+  "keywords": ["isArray", "isArguments", "isFunction", "isString", "isNumber", "isDate", "isRegExp", "isObject"],
   "dependencies": {
       "manuelstofer/each": "*"
   },
@@ -11,3 +11,4 @@
   ],
   "repo": "https://github.com/manuelstofer/is"
 }
+
